@@ -49,4 +49,14 @@ body{
     }
     
 }
+footer{
+    h4{
+        margin-top: 350px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: left;
+        text-decoration: none;
+        color: var(--whigga)
+    }
+}
 
