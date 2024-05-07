@@ -1,0 +1,52 @@
+:root{
+    --whigga: white
+}
+header{ 
+        background-color: darkslategray;
+        opacity: 0.9;
+    a{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        color: var(--whigga)
+    }
+    ul{
+        list-style-type: none;
+        display: flex;
+        position: sticky;
+        align-items: center;
+        justify-content: space-around;
+        margin: 0 50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        color: var(--whigga)
+    }
+    li{
+        display: inline;
+    }
+}
+body{
+        background-image: url(https://dotesports.com/wp-content/uploads/2022/09/19234351/league-of-legends.png);
+	    background-size: 100vw 100vb;
+	    background-repeat: no-repeat;
+    h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        color: var(--whigga)
+    }
+    h3{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        color: var(--whigga)
+    }
+    
+}
+
